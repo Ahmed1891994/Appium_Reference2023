@@ -1,0 +1,5 @@
+{
+	"err_in_login_wrongusername":"Username and password do not match any user in this service.",
+	"err_in_login_wrongpassword":"Username and password do not match any user in this service.",
+	"err_in_login_lockeduser":"Sorry, this user has been locked out."
+}
